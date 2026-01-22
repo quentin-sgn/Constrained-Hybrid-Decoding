@@ -1,4 +1,4 @@
-# Constrained Hybrid Decoding (CHD)
+# Constrained Hybrid Decoding (CHyD)
 A faithfulness-focused speculative RAG framework
 
 This repository contains the SEMAeroSQuAD dataset used for the evaluation.
